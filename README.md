@@ -2,6 +2,6 @@
 
 React 17, Hooks, Scss.
 
-## Preview
+<a href="https://rezamehdipour.ir/dad-jokes">[ Live Preview ]</a>
 
-![preview](preview.png)
+![preview](preview.jpg)
